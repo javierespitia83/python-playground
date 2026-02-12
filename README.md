@@ -12,7 +12,7 @@ To Improve my Python skills through hands-on exercises, focusing on logic and au
 * **/error_handling**: Practice with Try/Except blocks.
 
 ### 🚀 Purpose
-A dedicated space to test ideas, solve small logic puzzles, and build the "technical muscle" needed for Technical Program Management (TPM).
+A dedicated space to test ideas, solve small logic puzzles, and build the "technical muscle" needed as a TPM
 
 ---
 *Ongoing learning and consistency.*
